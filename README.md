@@ -2,6 +2,10 @@
 
 Created by Acharee Sirisan.
 
+## Live website
+
+https://jasach29.github.io/dashboard-project/
+
 ## Purpose and audience
 
 This project responds to food access challenges, including those
@@ -11,6 +15,12 @@ stations. It supports people who rely on public transportation
 in choosing a market to visit by showing market locations,
 operating hours, seasons, and nearby rail options.
 
+## Decisions this tool supports
+
+- Which farmers market should I visit in my chosen borough?
+- What operating hours and season are listed for that market?
+- Which nearby subway or Staten Island Railway stations could I investigate for my trip?
+
 ## Features
 
 - Filter farmers markets by borough.
@@ -19,6 +29,7 @@ operating hours, seasons, and nearby rail options.
 - Click stations for names and daytime routes.
 - Show or hide train stations.
 - Operate the borough dropdown using a keyboard.
+- Browse a market list that updates with the borough filter.
 
 ## Tools
 
